@@ -1,17 +1,4 @@
 /*
-TRABALHO 1 - CRIVO DE ERATÓSTENES
-Programação de Sistemas / 14138
-
-PROFESSORES:
-Airton Marco Polidorio
-Nelson Tenório
-
-EQUIPE:
-RA 137304 - Ana Paula Loureiro Crippa
-RA 134678 - Julia Marques Sanches
-RA 134539 - Maria Eduarda de Mello Policante
-RA 134241 - Pâmela Camilo Chalegre
-
 Especificação:
 Usando o Crivo de Eratóstenes construa uma tabela de consulta (lockup table) que permita 
 dizer se um número inteiro positivo pertencente ao intervalo [2, 6400] é primo ou não.
