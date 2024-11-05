@@ -2,21 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-/*
-TRABALHO 3 - PROCESSAMENTO IMAGEM PILHA
-Programação de Sistemas / 14138
-
-PROFESSORES:
-Airton Marco Polidorio
-Nelson Tenório
-
-EQUIPE:
-RA 137304 - Ana Paula Loureiro Crippa
-RA 134678 - Julia Marques Sanches
-RA 134539 - Maria Eduarda de Mello Policante
-RA 134241 - Pâmela Camilo Chalegre
-*/
-
 typedef struct TpDADO {
     int L, C;
 } TpDADO;
