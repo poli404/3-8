@@ -1,17 +1,4 @@
 /*
-TRABALHO 2 - NEWTON-RAPHSON
-PROGRAMAÇÃO DE SISTEMAS / 14138
-
-PROFESSORES:
-Airton Marco Polidorio
-Nelson Tenório
-
-GRUPO:
-RA 137304 - Ana Paula Loureiro Crippa
-RA 134678 - Julia Marques Sanches
-RA 134539 - Maria Eduarda de Mello Policante
-RA 134241 - Pâmela Camilo Chalegre
-
 Especificação:
 Simplificação do método matemático de Newton-Raphson para cálculo de raiz quadrada utilizando o modelo
 floatIEEE e a manipulação de bits.
